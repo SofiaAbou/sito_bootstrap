@@ -1,0 +1,22 @@
+body {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+:root {
+    --bs-purple: #6f42c1;
+}
+
+.nav {
+    position: fixed;
+}
+
+.navbarCollapse {
+    color: aliceblue;
+
+}
