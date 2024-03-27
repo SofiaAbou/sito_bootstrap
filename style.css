@@ -20,3 +20,14 @@ body {
     color: aliceblue;
 
 }
+.sezione-immagini{
+    width: 100%;
+}
+.sezione-immagini .immagine {
+    min-height: 30rem;
+    background-size: cover;
+}
+
+.sezione-immagini .testo {
+    padding: 3rem;
+}
